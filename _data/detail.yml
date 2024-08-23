@@ -1,0 +1,29 @@
+- title: Python
+  from: 
+  to: 
+  description: <ul>
+               <li>資料處理</li>
+               <li>數據分線</li>
+               <li>視覺化呈現</li>
+               <li>Selenium, BeatifulSoup爬蟲</li>
+               </ul>
+
+- title: Pytorch/Tensorflow
+  from: 
+  to: 
+  description: <ul>
+               <li>機器學習、深度學習</li>
+               <li>模型應用與架構</li>
+               <li>模型訓練與預測</li>
+               </ul>
+
+- title: Django
+  from: 
+  to: 
+  description:  <ul>
+                <li>網頁框架</li>
+                <li>管理者頁面</li>
+                <li>資料存取</li>
+                <li>表單建立</li>
+                <li>使用者權限</li>
+                </ul>

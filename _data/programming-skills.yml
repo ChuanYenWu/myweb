@@ -1,0 +1,14 @@
+- name: Python
+  percentage: 90
+  hidePercentage: true
+  color: danger
+
+- name: Pytorch
+  percentage: 90
+  hidePercentage: true
+  color:
+
+- name: Tenserflow
+  percentage: 90
+  hidePercentage: true
+  color: secondary

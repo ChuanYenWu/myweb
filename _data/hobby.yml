@@ -1,0 +1,9 @@
+- name: Sports
+  percentage: 100
+  hidePercentage: true
+  color: info
+
+- name: Mahjong
+  percentage: 100
+  hidePercentage: true
+  color: success

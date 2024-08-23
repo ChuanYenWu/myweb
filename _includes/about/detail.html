@@ -1,0 +1,13 @@
+<div class="col mt-4">
+    <div class="detail-body bg-themed">
+      {% for item in site.data.detail %}
+        <div class="detail-item">
+          <div class="content">
+            <h3>{{ item.title }}</h3>
+            
+            <p>{{ item.description }}</p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>

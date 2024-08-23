@@ -1,0 +1,9 @@
+- name: SQLite
+  percentage: 95
+  hidePercentage: true
+  color: info
+
+- name: Django
+  percentage: 90
+  hidePercentage: true
+  color: success
