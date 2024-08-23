@@ -22,3 +22,6 @@ Gemfile.lock
 
 # Log Files
 *.log
+
+# Readme.md
+README.md
